@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1251572610916159642/1342905833494937680/174024402025623192_2.png?ex=67bb5604&is=67ba0484&hm=a5f5be166b205f0fb3cc98213f8e0f9c05e58cd3ccf1b93272f940d7f5723908&=&format=webp&quality=lossless&width=721&height=540" />
+  <img src="https://files.catbox.moe/b7a6td.png" />
 </p>
 
 <p align="center">
